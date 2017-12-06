@@ -1,1 +1,9 @@
-= bisq network roles
+= Bisq Network Roles
+
+== How to Create a New Role?
+
+1. Create a **New File**
+1. **Name** your File according to the following syntax "role".adoc (e.g. roles-maintainer.adoc)
+1. **Edit** your Role according to the template
+1. **Propos**e New File
+1. Done with your File? If yes, then Create a **Pull Request**
